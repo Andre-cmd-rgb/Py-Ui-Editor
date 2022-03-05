@@ -26,6 +26,5 @@ setup(
     packages=["ui"],
     include_package_data=True,
     install_requires=["os", "tkinter"],
-        ]
     },
 )
