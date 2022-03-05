@@ -26,9 +26,6 @@ setup(
     packages=["ui"],
     include_package_data=True,
     install_requires=["os", "tkinter"],
-    entry_points={
-        "console_scripts": [
-            "ui=ui_lib.__main__:main",
         ]
     },
 )
