@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="ui",
+    name="Py-Ui-Library",
     version="0.1.0",
     description="Ui designign library",
     long_description=README,
@@ -23,7 +23,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.10",
     ],
-    packages=["ui"],
+    packages=["Py-Ui-Library"],
     include_package_data=True,
     install_requires=["os", "tkinter"],
 )
