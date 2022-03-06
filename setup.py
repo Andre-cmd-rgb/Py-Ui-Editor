@@ -6,7 +6,7 @@ with open('README.md') as file:
 
 
 # specify requirements of your package here
-REQUIREMENTS = ['tkinter']
+REQUIREMENTS = ['Tkinter']
 
 # some more details
 CLASSIFIERS = [
