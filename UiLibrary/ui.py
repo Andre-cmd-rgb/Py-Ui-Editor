@@ -1,4 +1,3 @@
-import tkinter as tk
 Ui=[]
 def EditState(editstate):
         if editstate=="do":
@@ -34,5 +33,3 @@ class UI:
                 pass
         def addwindow():
                 WindowUi=Window()
-
-
