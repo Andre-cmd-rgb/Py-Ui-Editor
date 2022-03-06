@@ -35,8 +35,4 @@ class UI:
         def addwindow():
                 WindowUi=Window()
 
-def ciao():
-        print("ciao")
 
-screen()
-addButtom("grhg4f",ciao)
