@@ -18,7 +18,7 @@ CLASSIFIERS = [
 	]
 
 # calling the setup function
-setup(name='Ui-Library',
+setup(name='UiLibrary',
 	version='1.0.0',
 	description='A gui development library',
 	long_description=long_description,
