@@ -1,8 +1,0 @@
-README.md
-setup.py
-UiLibrary/UiLibrary.py
-UiLibrary/__init__.py
-UiLibrary.egg-info/PKG-INFO
-UiLibrary.egg-info/SOURCES.txt
-UiLibrary.egg-info/dependency_links.txt
-UiLibrary.egg-info/top_level.txt
