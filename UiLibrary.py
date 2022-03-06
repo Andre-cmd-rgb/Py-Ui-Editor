@@ -1,5 +1,4 @@
 import tkinter as tk
-class UiLibrary:
 Ui=[]
 def EditState(editstate):
         if editstate=="do":
