@@ -1,9 +1,4 @@
-from UiLibrary import screen 
-from UiLibrary import addButtom
-from UiLibrary import addNumBox
-from UiLibrary import addlable
-from UiLibrary import textboxoutput
-from UiLibrary import mainsloop
+from UiLibrary import *
 
 screen()
 addButtom("grhg4f",textboxoutput)
