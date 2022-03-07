@@ -49,6 +49,3 @@ class UI:
 
 def textboxoutput():
         label.set(text.get())
-        
-
-

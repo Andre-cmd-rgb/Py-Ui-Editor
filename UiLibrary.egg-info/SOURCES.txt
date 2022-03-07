@@ -1,7 +1,6 @@
 README.md
 setup.py
 UiLibrary/__init__.py
-UiLibrary/test.py
 UiLibrary/ui.py
 UiLibrary.egg-info/PKG-INFO
 UiLibrary.egg-info/SOURCES.txt
