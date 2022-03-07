@@ -1,4 +1,5 @@
 from UiLibrary import *
+import os
 screen()
-addButtom("hi")
+addButtom("Exit", exit)
 mainsloop()
