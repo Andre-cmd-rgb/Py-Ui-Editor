@@ -1,9 +1,10 @@
 from UiLibrary import *
 
 screen()
-addButtom("grhg4f",textboxoutput)
+addButtom("test",textboxoutput)
 addNumBox()
 addlable()
+addButtom("hi")
 help(addlable)
 help(addNumBox)
 help(addButtom)
