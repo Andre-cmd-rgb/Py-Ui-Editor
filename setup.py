@@ -13,7 +13,7 @@ CLASSIFIERS = []
 
 # calling the setup function
 setup(name='UiLibrary',
-	version='1.0.3',
+	version='1.0.4',
 	description='A gui development library',
 	long_description=long_description,
 	url='https://github.com/Andre-cmd-rgb/Py-Ui-Library',

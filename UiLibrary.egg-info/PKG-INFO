@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: UiLibrary
-Version: 1.0.3
+Version: 1.0.4
 Summary: A gui development library
 Home-page: https://github.com/Andre-cmd-rgb/Py-Ui-Library
 Author: Andre-Cmd-Rgb
@@ -10,6 +10,6 @@ Keywords: Py Ui Library
 Platform: UNKNOWN
 
 # Py-Ui-Library
-a Python library to easly create a ui
+a Python library to easly create Guis with short simple commands.
 
 
