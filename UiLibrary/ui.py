@@ -1,5 +1,5 @@
 import tkinter as tk
-
+import os
 def EditState(editstate):
         if editstate=="do":
                 edit=True
