@@ -1,4 +1,3 @@
-from unicodedata import name
 from UiLibrary import *
 
 screen()

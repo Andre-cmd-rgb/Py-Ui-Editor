@@ -1,7 +1,6 @@
 import tkinter as tk
 import os
 from tkinter import Label, Menu
-from unicodedata import name
 def EditState(editstate):
         if editstate=="do":
                 edit=True
