@@ -41,16 +41,16 @@ def addlable():
 def mainsloop():
         window.mainloop()
 
-def menu():
+#def menu():
         global menubar
         menubar = Menu(window)
         window.config(menu=menubar)
-def addmenu(name):
+#def addmenu(name):
         global name
         name = Menu(menubar)
-def dropdown(Lable,Command):
+#def dropdown(Lable,Command):
         name.add_command(label=Label,command=Command)
-def addcascade(Label,Command,Menu):
+#def addcascade(Label,Command,Menu):
         menubar.add_cascade(label=Label,menu=name,underline=0)
 class UI:
         def __init__(self):
